@@ -25,10 +25,24 @@ conda env create -f dunnart_analysis.yml
 1. Run all cells in order.
 
 ## Data availability
-The data for this project are available for download at:
+The data for this project are available for download at: \[TBC\]
 
 ## References
 Please see the companion paper linked above for details of the methods and packages used in this code.
+
+## Citing this code
+If you use or adapt our code or methods in your research, please cite the companion paper linked above or as shown here in BibTeX format:
+```
+@article {suarez_cortical_2023,
+	author = {Rodrigo Su{\'a}rez and Tobias Bluett and Michael H. McCullough and Lilach Avitan and Dylan A. Black and Annalisa Paolino and Laura R. Fenlon and Geoffrey J. Goodhill and Linda J. Richards},
+	title = {Cortical activity emerges in region-specific patterns during early brain development},
+	elocation-id = {2023.02.18.529078},
+	year = {2023},
+	doi = {10.1101/2023.02.18.529078},
+	publisher = {Cold Spring Harbor Laboratory},
+	journal = {bioRxiv}
+}
+```
 
 ## Questions
 Please email michael.mccullough@anu.edu.au if you have questions about the code.
