@@ -11,7 +11,7 @@ This repository contains:
 * Custom modules called from the notebook including:
   * `caimaging/tools` for extracting neural activity from 2D calcium imaging data using an ROI grid.
   * `fcnetwork/ggm`,`networkviz` and `stats` for estimating functional connectivity between ROIs using Gaussian graphical modelling and qunatifying properties of neuronal ensembles and network structure.
-  * `wavetrack/wave_cc`, `wave_viz` and `directional_stats` for tracking and analysing properties of travelling wave activity.
+  * `wavetrack/wave_cc`, `wave_viz` and `direction_stats` for tracking and analysing properties of travelling wave activity.
 
 ## Installation and usage
 To run the notebook (or use the custom functions on your own data):
