@@ -20,10 +20,11 @@ To run the notebook (or use the custom functions on your own data):
 ``` 
 conda env create -f dunnart_analysis.yml
 ```
-1. Download the data (see Data availability).
+1. Download the data (see [Data availability](#data)).
 1. Set the `datapath`, `scratchpath` and `figpath` environment variables in the second code block of the notebook. The `datapath` must point to the `raw-2p` folder in the downloaded data. Create directories for `figpath` and `scratchpath` as necessary.
 1. Run all cells in order.
 
+<a id='data'></a>
 ## Data availability
 The data for this project are available for download at: \[TBC\]
 
