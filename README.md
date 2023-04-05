@@ -27,6 +27,8 @@ conda env create -f dunnart_analysis.yml
 ## Data availability
 The data for this project are available for download at:
 
+## References
+Please see the companion paper linked above for details of the methods and packages used in this code.
 
 ## Questions
 Please email michael.mccullough@anu.edu.au if you have questions about the code.
