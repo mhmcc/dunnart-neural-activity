@@ -3,6 +3,8 @@ Jupyter notebook and Python code for the analysis of neuronal ensembles and trav
 
 > Suárez, R. et al. Cortical activity emerges in region-specific patterns during early brain development. 2023.02.18.529078, Preprint at https://doi.org/10.1101/2023.02.18.529078 (2023).
 
+Code written by Michael H McCullough.
+
 ## Overview
 This repository contains:
 * The Jupyter notebook `dunnart_analysis.ipynb` which runs the complete pipeline for analysing the calcium imaging data, generating results and rendering figures for our published study.
