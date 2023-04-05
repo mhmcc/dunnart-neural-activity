@@ -1,7 +1,7 @@
 # Dunnart neural activity analysis
 Jupyter notebook and Python code for the analysis of neuronal ensembles and travelling waves in the cerebral cortex of the fat-tailed dunnart from calcium imaging data, as published in our study:
 
-> Suárez, R. et al. Cortical activity emerges in region-specific patterns during early brain development. 2023.02.18.529078, Preprint at https://doi.org/10.1101/2023.02.18.529078 (2023).
+> Suárez, R. et al. Cortical activity emerges in region-specific patterns during early brain development. *bioRxiv*, 2023.02.18.529078, Preprint at https://doi.org/10.1101/2023.02.18.529078 (2023).
 
 <img src="media/example_assemblies_overlay.png" alt="Neural ensemble detection" width="200"/> &emsp; <img src="media/example_wave.png" alt="Wave event tracking" width="200"/>
 
