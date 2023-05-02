@@ -26,7 +26,7 @@ conda env create -f dunnart_analysis.yml
 
 <a id='data'></a>
 ## Data availability
-The data for this project are available for download at: \[TBC\]
+The data for this project are available for download at: https://doi.org/10.48610/5ccfb47
 
 ## References
 Please see the companion paper linked above for details of the methods and packages used in this code.
