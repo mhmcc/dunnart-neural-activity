@@ -46,6 +46,9 @@ year = {2023},
 doi = {10.1073/pnas.2208654120}
 }
 ```
+This repository was archived on Zenodo on the date of publication:
+
+[![DOI](https://zenodo.org/badge/623309242.svg)](https://zenodo.org/badge/latestdoi/623309242)
 
 ## Questions
 Please email michael.mccullough@anu.edu.au if you have questions about the code.
