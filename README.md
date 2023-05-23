@@ -1,7 +1,7 @@
 # Dunnart neural activity analysis
 Jupyter notebook and Python code for the analysis of neuronal ensembles and travelling waves in the cerebral cortex of the fat-tailed dunnart from calcium imaging data, as published in our study:
 
-> Suárez, R. et al. Cortical activity emerges in region-specific patterns during early brain development. *bioRxiv*, 2023.02.18.529078, Preprint at https://doi.org/10.1101/2023.02.18.529078 (2023).
+> Suárez, R. et al. Cortical activity emerges in region-specific patterns during early brain development. *Proceedings of the National Academy of Sciences* 120, e2208654120 (2023), doi: 10.1073/pnas.2208654120.
 
 <img src="media/example_assemblies_overlay.png" alt="Neural ensemble detection" width="200"/> &emsp; <img src="media/example_wave.png" alt="Wave event tracking" width="200"/>
 
@@ -34,14 +34,16 @@ Please see the companion paper linked above for details of the methods and packa
 ## Citing this code
 If you use or adapt our code or methods in your research, please cite the companion paper linked above or as shown here in BibTeX format:
 ```
-@article {suarez_cortical_2023,
-	author = {Rodrigo Su{\'a}rez and Tobias Bluett and Michael H. McCullough and Lilach Avitan and Dylan A. Black and Annalisa Paolino and Laura R. Fenlon and Geoffrey J. Goodhill and Linda J. Richards},
-	title = {Cortical activity emerges in region-specific patterns during early brain development},
-	elocation-id = {2023.02.18.529078},
-	year = {2023},
-	doi = {10.1101/2023.02.18.529078},
-	publisher = {Cold Spring Harbor Laboratory},
-	journal = {bioRxiv}
+@article{
+doi:10.1073/pnas.2208654120,
+author = {Rodrigo Suárez  and Tobias Bluett  and Michael H. McCullough  and Lilach Avitan  and Dylan A. Black  and Annalisa Paolino  and Laura R. Fenlon  and Geoffrey J. Goodhill  and Linda J. Richards },
+title = {Cortical activity emerges in region-specific patterns during early brain development},
+journal = {Proceedings of the National Academy of Sciences},
+volume = {120},
+number = {22},
+pages = {e2208654120},
+year = {2023},
+doi = {10.1073/pnas.2208654120}
 }
 ```
 
